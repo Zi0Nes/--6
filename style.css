@@ -74,6 +74,7 @@ body {
     padding: 63px 0;
     box-sizing: border-box;
     position: relative;
+    display: none;
 }
 
 .settings {
